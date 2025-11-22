@@ -148,9 +148,11 @@ public class Main
 
 
 ## OUTPUT:
+<img width="823" height="290" alt="{EB73B6DF-CACF-4FB5-9504-6964F938E3FF}" src="https://github.com/user-attachments/assets/76fbf811-b183-45b4-9f77-bad2d17325a6" />
 
 
 
 ## RESULT:
 The program successfully implements the Abstract Factory pattern by generating Button and Checkbox components according to the user-selected theme (dark or light).
+
 
