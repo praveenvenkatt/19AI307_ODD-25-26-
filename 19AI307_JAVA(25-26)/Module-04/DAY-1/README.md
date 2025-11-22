@@ -72,10 +72,12 @@ public class DivisionExample
 
 
 ## OUTPUT:
+<img width="685" height="293" alt="{CDBBE3A5-4DC3-4DF4-98FA-A43A7BDCAA6D}" src="https://github.com/user-attachments/assets/d44b016b-425c-4f67-931b-9c9a2021de81" />
 
 
 
 ## RESULT:
 The program successfully performs division and handles division-by-zero errors using exception handling.
+
 
 
