@@ -77,10 +77,12 @@ public class CreateFileExample
 
 
 ## OUTPUT:
+<img width="633" height="150" alt="{1D965F97-986D-4C05-8A02-18E2D3D6E17B}" src="https://github.com/user-attachments/assets/40857695-72a6-4e75-aaf9-670affde2b6c" />
 
 
 
 ## RESULT:
 The program successfully creates a new file named example.txt in the project directory.
+
 
 
