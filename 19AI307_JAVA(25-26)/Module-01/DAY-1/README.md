@@ -94,13 +94,17 @@ public class Main
 
 
 ## OUTPUT:
-<img width="968" height="598" alt="{6E21FB16-7F1E-4250-9B20-498F32455158}" src="https://github.com/user-attachments/assets/537221f2-9dea-495b-8366-a4c489556d93" />
-<img width="852" height="650" alt="{7C3F5E90-8FCC-4579-8654-01FAE053CAC6}" src="https://github.com/user-attachments/assets/a95a9e17-685c-4154-9cb9-67374ffe81e5" />
+<img width="975" height="601" alt="{455D9E73-3A20-4AB6-AA8B-DC7A9C1DC8F5}" src="https://github.com/user-attachments/assets/a15cfc5b-14f7-45ea-bd3a-e8fa568c9b52" />
+<img width="850" height="571" alt="{1524A778-8B3C-40F7-AC61-62FB28084911}" src="https://github.com/user-attachments/assets/d19eaaa1-385e-432c-b3f2-c7480424631d" />
+
+
+
 
 
 
 ## RESULT:
 The program successfully demonstrates all Java data types by declaring, assigning, and printing each of them.
+
 
 
 
