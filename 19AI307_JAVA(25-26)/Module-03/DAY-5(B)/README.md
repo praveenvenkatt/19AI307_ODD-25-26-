@@ -74,9 +74,11 @@ public class Main
 
 
 ## OUTPUT:
+<img width="904" height="248" alt="{8C7949A3-EAC0-45CE-AFDE-1FBC0CAE1410}" src="https://github.com/user-attachments/assets/68ccbdc0-052a-4dc9-916b-d1e0e09bc9a1" />
 
 
 
 ## RESULT:
 The program successfully checks and displays whether the input number is an Armstrong number.
+
 
