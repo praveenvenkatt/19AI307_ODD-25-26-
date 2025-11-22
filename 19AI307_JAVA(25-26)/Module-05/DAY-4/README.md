@@ -66,9 +66,11 @@ public class ThreadInfo
 
 
 ## OUTPUT:
+<img width="797" height="201" alt="{12C18D63-B9B9-41C2-A63C-5D32F68CE162}" src="https://github.com/user-attachments/assets/fb0996b8-4a6d-4cc4-9ef9-3d783e30f2d3" />
 
 
 
 ## RESULT:
 The program successfully reads a thread name from the user and displays the current thread's updated name and its default priority.
+
 
