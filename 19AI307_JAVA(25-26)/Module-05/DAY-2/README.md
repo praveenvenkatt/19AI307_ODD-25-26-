@@ -137,9 +137,11 @@ public class StudentSerializationUserInput
 
 
 ## OUTPUT:
+<img width="1174" height="428" alt="{A75CC715-07DA-470D-802E-576A93CCA983}" src="https://github.com/user-attachments/assets/d437c419-d810-4283-a695-55611a5a6693" />
 
 
 
 ## RESULT:
 The program successfully serializes a collection of Student objects and stores them into a file using Java object serialization.
+
 
