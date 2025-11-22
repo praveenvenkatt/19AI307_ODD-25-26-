@@ -64,9 +64,11 @@ public class UserDetails
 
 
 ## OUTPUT:
+<img width="698" height="473" alt="{59BFA6E3-4D5A-485A-B14C-8B3144498B86}" src="https://github.com/user-attachments/assets/7969287c-5c78-4b29-93b6-0943bdbb742c" />
 
 
 
 ## RESULT:
 The program successfully demonstrates chaining of streams using BufferedReader → InputStreamReader → System.in.
+
 
