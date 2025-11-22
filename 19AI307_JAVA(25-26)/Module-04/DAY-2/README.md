@@ -110,9 +110,11 @@ public class prog
 
 
 ## OUTPUT:
+<img width="1241" height="250" alt="{706E523D-53CC-4373-8D39-BB46F8007102}" src="https://github.com/user-attachments/assets/2d87f8e6-d90a-49bc-b4c4-28d9c81225f8" />
 
 
 
 ## RESULT:
 The program successfully demonstrates the Singleton pattern by ensuring a single shared master power switch and maintaining a global access count across all player accesses.
+
 
