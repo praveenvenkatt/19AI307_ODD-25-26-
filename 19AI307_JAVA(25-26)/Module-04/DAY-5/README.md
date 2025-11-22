@@ -8,11 +8,17 @@ To implement the Prototype Design Pattern in Java by creating a Document object 
 
 ## ALGORITHM :
 Step 1: Start the program.
+
 Step 2: Import the required package java.util.* for user input.
+
 Step 3: Create a Document class that implements Cloneable and contains title and content fields.
+
 Step 4: Override the clone() method to return a copied Document object.
+
 Step 5: In the main program, read the title and content from the user.
+
 Step 6: Create the original Document object, clone it using the prototype method, and store the cloned object.
+
 Step 7: Print the original and cloned Document values, then end the program.
 
 
@@ -91,3 +97,4 @@ public class Main
 
 ## RESULT:
 Thus, the program successfully cloned a Document object using the Prototype Pattern and displayed both the original and copied versions.
+
