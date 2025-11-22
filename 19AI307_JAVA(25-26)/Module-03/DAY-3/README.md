@@ -116,9 +116,11 @@ public class Main
 
 
 ## OUTPUT:
+<img width="433" height="352" alt="{81FFBF79-1472-4F0A-9AB5-2C5599AF3387}" src="https://github.com/user-attachments/assets/34f81325-9af2-4010-80b8-5f5d782a16e9" />
 
 
 
 ## RESULT:
 The program successfully calculates and prints the interest earned for either a SavingsAccount or FixedDepositAccount based on user input.
+
 
