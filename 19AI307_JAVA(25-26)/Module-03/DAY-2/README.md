@@ -90,10 +90,12 @@ public class Main
 
 
 ## OUTPUT:
+<img width="854" height="368" alt="{2F922CA0-962D-45BA-9FCB-A14A449F93F3}" src="https://github.com/user-attachments/assets/c807b310-2c03-4a28-82df-9a6e78f46757" />
 
 
 
 ## RESULT:
 The program successfully calculates the areas of different shapes using method overloading.
+
 
 
