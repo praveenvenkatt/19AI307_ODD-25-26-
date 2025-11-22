@@ -136,9 +136,11 @@ public class prog
 
 
 ## OUTPUT:
+<img width="930" height="517" alt="{AD37795F-42EF-4E5B-B473-CB06614A611E}" src="https://github.com/user-attachments/assets/db8ff243-bfa4-48f8-84cb-f5f105acc3e4" />
 
 
 
 ## RESULT:
 The program successfully demonstrates Composition by creating Book objects inside the Library, ensuring they depend entirely on the Library for their existence.
+
 
