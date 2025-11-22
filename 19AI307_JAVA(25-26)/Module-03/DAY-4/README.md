@@ -101,9 +101,11 @@ public class Main
 
 
 ## OUTPUT:
+<img width="440" height="168" alt="{6D227532-E04D-4764-AC36-1801DFCA66CB}" src="https://github.com/user-attachments/assets/b0f6a242-6a33-4cc6-bdae-15af5c904999" />
 
 
 
 ## RESULT:
 The program successfully predicts weather conditions using the chosen bot based on the given temperature.
+
 
