@@ -35,8 +35,8 @@ Step 7: End the program.
  ```
 /*
 Program to implement a Synchronization concept using Java
-Developed by: 
-RegisterNumber:  
+Developed by: Praveen V
+RegisterNumber:  212222040121
 */
 ```
 
@@ -81,4 +81,5 @@ public class SwapSync
 
 ## RESULT:
 Thus, the program to swap two integers using a synchronized block was executed successfully.
+
 
