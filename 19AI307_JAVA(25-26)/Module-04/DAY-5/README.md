@@ -29,8 +29,8 @@ Step 7: Print the original and cloned Document values, then end the program.
  ```
 /*
 Program to implement a Behaviour Pattern using Java
-Developed by: 
-RegisterNumber:  
+Developed by: Praveen V
+RegisterNumber:  212222040121
 */
 ```
 
@@ -97,4 +97,5 @@ public class Main
 
 ## RESULT:
 Thus, the program successfully cloned a Document object using the Prototype Pattern and displayed both the original and copied versions.
+
 
