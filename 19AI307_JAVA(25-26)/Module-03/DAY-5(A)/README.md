@@ -29,8 +29,8 @@ Step 7: In the main method, create an object of Outer and call the method that a
  ```
 /*
 Program to implement a InnerClass using Java
-Developed by: 
-RegisterNumber:  
+Developed by: Praveen V
+RegisterNumber:  212222040121
 */
 ```
 
@@ -85,3 +85,4 @@ public class Main
 
 ## RESULT:
 Thus, the program to access a private inner class through a method in the outer class was successfully implemented.
+
