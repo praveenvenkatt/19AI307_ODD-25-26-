@@ -28,8 +28,8 @@ Step 7: Print the cube value and end the program.
  ```
 /*
 Program to implement a Methods using Java
-Developed by: 
-RegisterNumber:  
+Developed by: Praveen V
+RegisterNumber:  212222040121
 */
 ```
 
@@ -71,5 +71,6 @@ public class CubeCalculator
 
 ## RESULT:
 The program successfully calculates the cube of a number by internally calling the square method.
+
 
 
