@@ -1,4 +1,4 @@
-# Ex.No:4(D) DESIGN PATTERN  ---- BEHAVIOUR PATTERN
+# Ex.No:4(E) DESIGN PATTERN  ---- BEHAVIOUR PATTERN
 
 ## QUESTION:
 You need to clone documents. Implement the Prototype Pattern to copy a Document object with a title and content. On user input, create a copy and print both the original and the clone.
@@ -97,5 +97,6 @@ public class Main
 
 ## RESULT:
 Thus, the program successfully cloned a Document object using the Prototype Pattern and displayed both the original and copied versions.
+
 
 
